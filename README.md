@@ -1,5 +1,7 @@
 # Singularity AR
-World AR Effect for [Facebook Augmented Reality Hackthon](https://fbar1.devpost.com/)    
+World AR Effect for [Facebook Augmented Reality Hackthon](https://fbar1.devpost.com/)  
+
+Effect ID :: 1234567890  
 Export file :: **[Singularity.arexport](https://github.com/kunofellasleep/Singularity/raw/master/Singularity.arexport)**
 
 ## Demo
