@@ -1,12 +1,10 @@
 # Singularity AR
-
-## Overview
 World AR Effect for [Facebook Augmented Reality Hackthon](https://fbar1.devpost.com/)    
 Export file :: **[Singularity.arexport](https://github.com/kunofellasleep/Singularity/raw/master/Singularity.arexport)**
 
 ## Demo
 ![gif](./images/demo.gif)  
-**[Full Video](https://www.test.com/)**
+**[https://vimeo.com/test.test.test/](https://vimeo.com/test.test.test/)**
 <!-- 
 * The glowing disk around the singlarity is called the accetion disk.
 * The part below and above the singularity the part of the disk behind the black hole.  
