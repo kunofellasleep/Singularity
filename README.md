@@ -1,10 +1,10 @@
-# Singularity AR
+# Singularity - A fully functional black hole.
 World AR Effect for [Facebook Augmented Reality Hackthon](https://fbar1.devpost.com/)  
 
 ## Demo
 ![gif](./images/demo.gif)  
-Full Video : [https://youtu.be/HTqG8EkMiu0](https://youtu.be/HTqG8EkMiu0)  
-Effect URL : [https://www.instagram.com/a/r/?effect_id=533091900949674](https://www.instagram.com/a/r/?effect_id=533091900949674)  
+full video : [https://youtu.be/HTqG8EkMiu0](https://youtu.be/HTqG8EkMiu0)  
+effect url : [https://www.instagram.com/a/r/?effect_id=533091900949674](https://www.instagram.com/a/r/?effect_id=533091900949674)  
 <!-- 
 * The glowing disk around the singlarity is called the accetion disk.
 * The part below and above the singularity the part of the disk behind the black hole.  
