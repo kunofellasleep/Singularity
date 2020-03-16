@@ -1,6 +1,5 @@
 # Singularity AR
-World AR Effect for Facebook Augmented Reality Hackthon 2020  
-Export file :: [Singularity.arexport](https://github.com/kunofellasleep/Singularity/raw/master/Singularity.arexport)
+World AR Effect for [Facebook Augmented Reality Hackthon](https://fbar1.devpost.com/)  
 
 ## Demo
 ![gif](./images/demo.gif)  
