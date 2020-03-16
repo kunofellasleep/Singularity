@@ -18,6 +18,7 @@ Export file :: **[Singularity.arexport](https://github.com/kunofellasleep/Singul
 * The part moving towards the viewer is brighter than the part moving away.  
 -->
 
+<!-- 
 ## Patches  
 
 ![patches](./images/patches.png)  
@@ -25,6 +26,7 @@ _The black hole objects can be imported into a project with a single asp._
 
 ![gif](./images/demo2.gif)  
 _Low load because 3D objects other than planes are not used._
+-->
 
 ## Team
 ![omega](./images/omega.png) ![kuno](./images/kuno.png)  
